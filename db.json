@@ -1,0 +1,39 @@
+{
+  "pages": {
+    "meta": {
+        "total_count": 2
+    },
+    "items": [
+        {
+            "id": 3,
+            "meta": {
+                "type": "home.HomePage",
+                "detail_url": "http://localhost:1000/api/pages/3/",
+                "html_url": null,
+                "slug": "home",
+                "show_in_menus": false,
+                "seo_title": "",
+                "search_description": "",
+                "first_published_at": "2020-11-11T01:54:39.592697Z",
+                "locale": "pt-pt"
+            },
+            "title": "Home"
+        },
+        {
+            "id": 4,
+            "meta": {
+                "type": "about_us.AboutUsPage",
+                "detail_url": "http://localhost:1000/api/pages/4/",
+                "html_url": null,
+                "slug": "dqwqw",
+                "show_in_menus": false,
+                "seo_title": "",
+                "search_description": "",
+                "first_published_at": "2020-11-11T01:55:24.426362Z",
+                "locale": "pt-pt"
+            },
+            "title": "dqwqw"
+        }
+    ]
+}
+}
