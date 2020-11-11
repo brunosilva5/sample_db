@@ -1,21 +1,6 @@
 {
-  "pages": 
-        {
-            "id": 3,
-            "meta": {
-                "type": "home.HomePage",
-                "detail_url": "http://localhost:1000/api/pages/3/",
-                "html_url": null,
-                "slug": "home",
-                "show_in_menus": false,
-                "seo_title": "",
-                "search_description": "",
-                "first_published_at": "2020-11-11T01:54:39.592697Z",
-                "locale": "pt-pt"
-            },
-            "title": "Home"
-        },
-        {
+"pages":[
+{
     "id": 4,
     "meta": {
         "type": "about_us.AboutUsPage",
@@ -39,6 +24,5 @@
     "title": "dqwqw",
     "content": "<p>dqwdq</p>"
 }
-    ]
-}
+]
 }
